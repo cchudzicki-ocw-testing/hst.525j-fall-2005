@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Lab rat with tumor visualization window apparatus on its back.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: hst-525jf05-th.jpg
 uid: 7b4ddb1a-93cb-afff-be68-d93e5bd82988
