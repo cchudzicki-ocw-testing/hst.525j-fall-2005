@@ -12,6 +12,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: hst-525jf05-th.jpg
-type: OCWImage
 uid: 7b4ddb1a-93cb-afff-be68-d93e5bd82988
 ---

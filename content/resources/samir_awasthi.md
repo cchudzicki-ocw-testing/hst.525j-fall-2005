@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: samir_awasthi.pdf
-type: OCWFile
 uid: 64879740-b8bf-c2c9-1565-849b61d9bd91
 ---

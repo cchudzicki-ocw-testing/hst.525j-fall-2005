@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: zach_morris.pdf
-type: OCWFile
 uid: a39db0e9-db6b-51c5-a24b-75cfa0437bca
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 02b_jain.pdf
-type: OCWFile
 uid: 11276fe5-f623-f619-ec58-44bc870689a0
 ---

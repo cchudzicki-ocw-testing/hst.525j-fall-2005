@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: michael_schmidt.pdf
-type: OCWFile
 uid: af03af1e-8c68-b1d4-27f4-b55a345856dc
 ---

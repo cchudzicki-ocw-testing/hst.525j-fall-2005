@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: jeff_hsu.pdf
-type: OCWFile
 uid: 562e5897-7231-af68-60bc-ae8a15dc701b
 ---
