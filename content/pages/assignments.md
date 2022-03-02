@@ -32,7 +32,7 @@ AUTHORS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Enhancement of HIF-1-Mediated Tumor Radio sensitization via Vascular Normalization ({{< resource_link 64879740-b8bf-c2c9-1565-849b61d9bd91 "PDF" >}})
+Enhancement of HIF-1-Mediated Tumor Radio sensitization via Vascular Normalization ({{% resource_link 64879740-b8bf-c2c9-1565-849b61d9bd91 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Samir Awasthi
@@ -41,7 +41,7 @@ Samir Awasthi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Telomerase and Gene Expression ({{< resource_link 89a108cc-6fb9-431d-0ed0-aadc700c3861 "PDF" >}})
+Telomerase and Gene Expression ({{% resource_link 89a108cc-6fb9-431d-0ed0-aadc700c3861 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Jana Mooster
@@ -50,7 +50,7 @@ Jana Mooster
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Elucidating the Mechanisms involved in Tumstatin's Antiangiogenic Activities ({{< resource_link 562e5897-7231-af68-60bc-ae8a15dc701b "PDF" >}})
+Elucidating the Mechanisms involved in Tumstatin's Antiangiogenic Activities ({{% resource_link 562e5897-7231-af68-60bc-ae8a15dc701b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Jeff Hsu
@@ -59,7 +59,7 @@ Jeff Hsu
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Understanding the Failure of Combination Treatment with the Angiogenesis Inhibitor PTK787 and Chemotherapy in Phase III Trials ({{< resource_link af03af1e-8c68-b1d4-27f4-b55a345856dc "PDF" >}})
+Understanding the Failure of Combination Treatment with the Angiogenesis Inhibitor PTK787 and Chemotherapy in Phase III Trials ({{% resource_link af03af1e-8c68-b1d4-27f4-b55a345856dc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Michael Schmidt
@@ -68,7 +68,7 @@ Michael Schmidt
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Why Anti-Angiogenic Treatments Fail as Mono-Therapies ({{< resource_link a39db0e9-db6b-51c5-a24b-75cfa0437bca "PDF" >}})
+Why Anti-Angiogenic Treatments Fail as Mono-Therapies ({{% resource_link a39db0e9-db6b-51c5-a24b-75cfa0437bca "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Zach Morris
