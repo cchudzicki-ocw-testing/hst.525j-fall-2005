@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/7b4ddb1a93cbafffbe68d93e5bd82988_hst-525jf05-th.jpg
+file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/7b4ddb1a93cbafffbe68d93e5bd82988_hst-525jf05-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This tumor visualization window allows scientists to gain insight into
@@ -15,3 +15,4 @@ resourcetype: Image
 title: hst-525jf05-th.jpg
 uid: 7b4ddb1a-93cb-afff-be68-d93e5bd82988
 ---
+New image Upload
